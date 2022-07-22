@@ -33,11 +33,8 @@ Example of what object should be stored in `localStorage`:
 ```
 
 -   [ ] Add basic validation to the registration: Usernames should be unique, alphanumeric only. Passwords should be strong.
-
 -   [ ] When a user logs in, you should iterate on this key and figure out if `allUsers` contains the user. If yes, check if username and password matches. If they match, redirect the user to `/dashboard` screen.
-
 -   [ ] Store logged in user's username inside localStorage too. You may use `loggedIn` as the key and the username of the user logged in as the value.
-
 -   [ ] The dashboard should load feed from all the users. This feed should be also stored in `localStorage` as `feed` as the localStorage key, and the following structure as the value (feel free to change it to add more features):
 
 ```
