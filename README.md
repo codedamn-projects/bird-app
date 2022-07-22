@@ -1,5 +1,16 @@
 ## Introduction
 
+This project is about building a small but functional social media app like twitter. You should have the following features:
+
+-   User authentication via localStorage
+-   Feed logic
+-   CRUD on posts
+
+Extra things to do:
+
+-   Add like/comment for every post
+-   Add ability to follow users
+
 ## Project checklist
 
 In this project, you're supposed to work on a basic React app with all the functionalities listed below.
