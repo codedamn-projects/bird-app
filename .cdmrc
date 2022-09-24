@@ -1,4 +1,4 @@
-tabs: ['README.md', 'src/App.jsx']
+tabs: ['src/App.jsx']
 live-reload-browser: false
 terminal-one: |
     yarn install
